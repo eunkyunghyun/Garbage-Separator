@@ -1,2 +1,7 @@
 # Project exclude paths
 /venv/
+/image/
+/labels/foodwaste/
+/labels/generalwaste/
+/logsvgg16/
+/others/
