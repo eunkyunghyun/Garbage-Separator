@@ -1,8 +1,0 @@
-# Project exclude paths
-.gitignore
-/venv/
-/image/
-/labels/foodwaste/
-/labels/generalwaste/
-/logsvgg16/
-/others/
